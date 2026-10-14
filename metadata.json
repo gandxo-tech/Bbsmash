@@ -1,0 +1,6 @@
+{
+  "name": "Boulevard Smash - Burgers Artisanaux à Cotonou",
+  "description": "Véritables smash burgers croustillants et dorés, livrés chauds en 35 minutes à Cotonou et Calavi. Commande en ligne, Mobile Money et WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
